@@ -20,7 +20,9 @@ Welcome to my Portfolio Guide where I provide a rundown of my Data Analytics pro
 
 - ### [DataCamp Projects](https://github.com/katiehuangx/DataCamp-Projects)
 
-- ### [Covid-19 in Malaysia and the Impact on Stock Market](https://github.com/katiehuangx/Covid-19-and-Impact-on-Malaysia-stock-market)
+- ### [Covid-19 and the Impact on Malaysia Stock Market](https://github.com/katiehuangx/Covid-19-and-Impact-on-Malaysia-stock-market)
+
+**Overview:** A project close to 🏡 home. An analysis of worldwide Covid-19 cases & how it has impacted KLCI index prices over the past 1.5 year using SQL and Tableau.
 
 ***
 
