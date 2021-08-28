@@ -1,49 +1,70 @@
-# 🔑 Portfolio Guide
+# 🗺 Portfolio Guide
 
-Welcome to my Portfolio Guide where I provide a rundown of my Data Analytics projects and courses.
+Welcome to my Portfolio Map where I provide a walkthrough of my Data Analytics projects and courses.
 
 ## 📚 Table of Contents
 
 - [SQL Projects](#sql-projects)
 - [SQL Courses](#sql-courses)
 - [Python Projects](#python-projects)
+- [Python Courses](#python-courses)
 
 ***
 
 ## SQL Projects
 
-### [8 Week SQL Challenge](https://github.com/katiehuangx/8-Week-SQL-Challenge)
+### 🥑 [8 Week SQL Challenge](https://github.com/katiehuangx/8-Week-SQL-Challenge)
 
-**Overview:** 8 weekly SQL challenges with individual case studies consisting of database, entity relationship diagram, case study questions and solution. 
+**Overview** 
 
-**Review:** A fun way to learn SQL and practice on questions without having to create your metrics or questions -  this is especially helpful when you're a beginner and new in data analytics. Bonus points - the topics usually revolve around food! 😉
+It's a 8-week SQL challenges with individual case studies and questions. 
 
-### [DataCamp Projects](https://github.com/katiehuangx/DataCamp-Projects)
+**Thoughts** 
 
-**Overview:** Guided and unguided projects developed by DataCamp.
+It's a a fun way to learn SQL and practice questions without having to create your own metrics or case study questions -  this is especially helpful when you're new in data analytics and may find it daunting to start a case study on your own! Bonus points - the topics usually revolve around food! 😉
 
-### [Covid-19 and the Impact on Malaysia Stock Market](https://github.com/katiehuangx/Covid-19-and-Impact-on-Malaysia-stock-market)
+Let me tell you, the questions are very challenging and that's why it's fun! I've learnt more on SQL from these questions more than any courses or tutorials I've taken! JOINs and CTEs are a staple in most of the questions. 
 
-**Overview:** A project close to 🏡 home. An analysis of worldwide Covid-19 cases & how it has impacted KLCI index prices over the past 1.5 year using SQL and Tableau.
+### 🦠 [Covid-19 and the Impact on Malaysia Stock Market](https://github.com/katiehuangx/Covid-19-and-Impact-on-Malaysia-stock-market)
 
-**Thoughts:** This was my 1st project using SQL and Tableau. It's a [data exploration project by Alex Freberg](https://www.youtube.com/watch?v=qfyynHBFOsM&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f&index=1). 
+**Overview** 
+
+This ia a project close to 🏡 home. It's an analysis of global and local Covid-19 cases & how it has impacted KLCI index prices over the past 1.5 year. I used MS SQL Server and Tableau.
+
+**Thoughts** 
+
+This was my 1st project using SQL and Tableau. It's a [data exploration project by Alex Freberg](https://www.youtube.com/watch?v=qfyynHBFOsM&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f&index=1). 
 
 ***
 
 ## SQL Courses
 
-### [Udacity SQL for Data Analysis](https://github.com/katiehuangx/Udacity-SQL-for-Data-Analysis)
+### 📝 [Udacity SQL for Data Analysis](https://github.com/katiehuangx/Udacity-SQL-for-Data-Analysis)
 
-### [Serious SQL](https://github.com/katiehuangx/Serious-SQL)
+### 🧮 [Serious SQL Apprenticeship](https://github.com/katiehuangx/Serious-SQL)
 
 ***
 
 ## Python Projects
 
-### [DataCamp Projects](https://github.com/katiehuangx/DataCamp-Projects)
+### 🌱 [DataCamp Projects](https://github.com/katiehuangx/DataCamp-Projects)
 
-### [Super Store EDA](https://github.com/katiehuangx/The-Sparks-Foundation-Internship)
+**Overview** 
 
-### [Bellabeat Fitness Tracker App EDA](https://github.com/katiehuangx/Google-Data-Analytics-Capstone)
+Guided and unguided projects developed by DataCamp.
+
+### 🛍 [Super Store EDA](https://github.com/katiehuangx/The-Sparks-Foundation-Internship)
+
+### 🏃🏻‍♀️ [Bellabeat Fitness Tracker App EDA](https://github.com/katiehuangx/Google-Data-Analytics-Capstone)
+
+***
+
+## Python Courses
+
+### 📖 [Udacity Data Analyst Nanodegree](https://github.com/katiehuangx/Udacity-Data-Analyst-Nanodegree)
+
+**Overview** 
+
+A 130-hour 5-courses program on probability and statistics, data wrangling, exploratory data analysis and data visualization using Python.
 
 ***
