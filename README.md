@@ -1,14 +1,11 @@
 # 🗺 Portfolio Guide
 
-Hi there! 🙋🏻‍♀️
-Welcome to my Portfolio Guide where I give you a walkthrough of all my Data Analytics projects!
+Welcome to my Portfolio Guide where I provide a walkthrough of all my Data Analytics projects and courses.
 
 ## 📚 Table of Contents
 
 - [SQL Projects](#sql-projects)
-- [SQL Courses](#sql-courses)
 - [Python Projects](#python-projects)
-- [Python Courses](#python-courses)
 
 ***
 
@@ -16,13 +13,21 @@ Welcome to my Portfolio Guide where I give you a walkthrough of all my Data Anal
 
 ### 🥑 [8 Week SQL Challenge](https://github.com/katiehuangx/8-Week-SQL-Challenge)
 
-This is a 8-week SQL challenges with 8 individual case studies that comes with its own story, data set and a bunch of interesting questions. It was created by [Danny Ma](https://www.linkedin.com/in/datawithdanny/) as a SQL learning journey. Click [here](https://8weeksqlchallenge.com) for the website.
+A series of SQL case studies where I perform Data Cleaning and Data Transformation and solve Business Questions using SQL. 
 
-Anyone who knows me know that I'm a BIG FAN of the #8WeekSQLChallenge! This is where I learnt and improved my SQL skills the most. 
+#1 [Danny's Diner](https://github.com/katiehuangx/8-Week-SQL-Challenge/blob/main/Case%20Study%20%231%20-%20Danny's%20Diner/Danny's%20Diner%20Solution.md)
+#2 [Pizza Runner](https://github.com/katiehuangx/8-Week-SQL-Challenge/blob/main/Case%20Study%20%232%20-%20Pizza%20Runner/Data%20Cleaning%20and%20Transformation.md)
+#3 [Foodie-Fi](https://github.com/katiehuangx/8-Week-SQL-Challenge/blob/main/Case%20Study%20%233%20-%20Foodie-Fi/A.%20Customer%20Journey.md)
+#4 [Data Bank](https://github.com/katiehuangx/8-Week-SQL-Challenge/blob/main/Case%20Study%20%234%20-%20Data%20Bank/A.%20Customer%20Nodes%20Exploration.md)
+#5 [Data Mart](https://github.com/katiehuangx/8-Week-SQL-Challenge/blob/main/Case%20Study%20%235%20-%20Data%20Mart/A.%20Data%20Cleansing%20Steps.md)
 
-It's a a fun way to learn SQL and practice on questions without having to create your own metrics or questions -  this is especially helpful when you're new in data analytics and may find it daunting to start a case study on your own! Bonus points - the topics usually revolve around food! 😉
+**Skills Learnt:** Aggregations, Joins, CTEs, Window functions (aggregates, ranking, running total, partitioned averages), CASE WHEN statements, subqueries, nested subqueries, DATETIME functions, data type conversion, text and string manipulation
 
-Let me tell you, the questions are very challenging and that's why it's fun! I've learnt more on SQL from these questions more than any courses or tutorials I've taken! JOINs and CTEs are a staple in most of the questions. 
+### 👩🏻‍⚕️ [Health Analytics Case Study](https://github.com/katiehuangx/Serious-SQL-Apprenticeship/blob/main/Health%20Analytics%20Mini%20Case%20Study.md)
+
+**Skills Learnt:** 
+- Create temporary tables.
+- Aggregations, Joins, CTEs, Window functions (summary statistics: mode, median)
 
 ### 🦠 [Covid-19 and the Impact on Malaysia Stock Market](https://github.com/katiehuangx/Covid-19-and-Impact-on-Malaysia-stock-market)
 
@@ -32,15 +37,10 @@ It's an analysis of global and local Covid-19 cases & how it has impacted the st
 
 ***
 
-## SQL Courses
-
-### 🧮 [Serious SQL Apprenticeship](https://github.com/katiehuangx/Serious-SQL)
-
-### 📝 [Udacity SQL for Data Analysis](https://github.com/katiehuangx/Udacity-SQL-for-Data-Analysis)
-
-***
-
 ## Python Projects
+
+### ⛽️ Analysing Fuel Economy
+
 
 ### 🌱 [DataCamp Projects](https://github.com/katiehuangx/DataCamp-Projects)
 
@@ -54,10 +54,4 @@ I analyse the sales data of a fictitious retail store in US and provide my insig
 
 ***
 
-## Python Courses
 
-### 📖 [Udacity Data Analyst Nanodegree](https://github.com/katiehuangx/Udacity-Data-Analyst-Nanodegree)
-
-A 130-hour 5-course program on probability and statistics, data wrangling, data analysis and data visualization using Python.
-
-***
