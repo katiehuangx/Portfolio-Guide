@@ -1,5 +1,7 @@
 # 🗺 Portfolio Guide
 
+Hi there! 🙋🏻‍♀️
+
 Welcome to my Portfolio Guide where I provide a walkthrough of all my Data Analytics projects and courses.
 
 ## 📚 Table of Contents
