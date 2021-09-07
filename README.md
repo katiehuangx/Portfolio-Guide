@@ -9,7 +9,7 @@ Welcome to my Portfolio Guide where I provide a walkthrough of all my Data Analy
 - [SQL Projects](#sql-projects)
 - [Python Projects](#python-projects)
 
-_Katie's note: Click on the project's title (**bold** and coloured in Blue) to view my projects! Thank you! ☺️_
+_Katie's note: Click on the project's title (**bold** and coloured in <span style="color:blue">Blue</span>) to view my projects! Thank you! ☺️_
 ***
 
 # SQL Projects
