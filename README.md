@@ -32,7 +32,7 @@ A series of SQL case studies where I perform Data Cleaning and Data Transformati
 ## 🎬 [Marketing Analytics Case Study](https://github.com/katiehuangx/Serious-SQL-Apprenticeship/blob/main/Marketing%20Analytics%20Case%20Study.md) 
 _[Ongoing]_
 
-### 🦠 [Covid-19 and the Impact on Malaysia Stock Market](https://github.com/katiehuangx/Covid-19-and-Impact-on-Malaysia-stock-market)
+## 🦠 [Covid-19 and the Impact on Malaysia Stock Market](https://github.com/katiehuangx/Covid-19-and-Impact-on-Malaysia-stock-market)
 
 A project close to 🏡 home. I was inspired by Alex Freberg's [Data Exploration Project](https://www.youtube.com/watch?v=qfyynHBFOsM&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f&index=1) on YouTube and decided to branch out on his analysis to cover the impact on my country's stock market as well.
 
@@ -40,20 +40,23 @@ I analysed global and local Covid-19 cases & how it has impacted the stock marke
 
 ***
 
-## Python Projects
+# Python Projects
 
-### ⛽️ [Analysing Fuel Economy](https://github.com/katiehuangx/Udacity-Data-Analyst-Nanodegree/blob/main/Part%202:%20Intro%20to%20Data%20Analysis/Case%20Study%20%232:%20Fuel%20Economy/Fuel_Economy.ipynb)
+## ⛽️ [Analysing Fuel Economy](https://github.com/katiehuangx/Udacity-Data-Analyst-Nanodegree/blob/main/Part%202:%20Intro%20to%20Data%20Analysis/Case%20Study%20%232:%20Fuel%20Economy/Fuel_Economy.ipynb)
+
+An analysis of fuel economy data based on a series of tests conducted by the United States Environmental Protection Agency.
 
 **Key Learning:**
 - Libraries: Pandas, Numpy, Matplotlib
-- Assessed and transformed data using `.info()`, `.describe()`, `.shape`, `.rename()` and more!
-- Visualized data using histograms and scatter plots
+- Explored data using `.head()`, `.describe()` and more!
+- Cleaned data by handling missing values and duplications
+- Corrected inconsistent data types by converting from `string` to `float`, `float` to `int` and many more
+- Visualized data using histograms, scatter plots and box plots
 - Draw conclusions by asking questions such as
-  - **Do wines with higher alcoholic content receive better ratings?**
-  - **Do sweeter wines (more residual sugar) receive better ratings?**
+  - **What are the characteristics of SmartWay vehicles? Have they improved over time?**
+  - **For all the models that were produced in 2008 that are still produced in 2018, how much has the mpg (miles/gallon) improved and which vehicle improved the most?**
 
-
-### 🍷 [Wine Quality](https://github.com/katiehuangx/Udacity-Data-Analyst-Nanodegree/blob/main/Part%202:%20Intro%20to%20Data%20Analysis/Case%20Study%20%231:%20Wine%20Quality/Wine_Quality.ipynb)
+## 🍷 [Wine Quality](https://github.com/katiehuangx/Udacity-Data-Analyst-Nanodegree/blob/main/Part%202:%20Intro%20to%20Data%20Analysis/Case%20Study%20%231:%20Wine%20Quality/Wine_Quality.ipynb)
 
 I analysed red and white wine samples with its associated wine qualities from north of Portugal.
 
@@ -65,7 +68,7 @@ I analysed red and white wine samples with its associated wine qualities from no
   - **Do wines with higher alcoholic content receive better ratings?**
   - **Do sweeter wines (more residual sugar) receive better ratings?**
 
-### 🌤 [Explore Weather Trends](https://github.com/katiehuangx/Udacity-Data-Analyst-Nanodegree/blob/main/Part%201:%20Welcome/Project%20%231:%20Explore%20Weather%20Trends/Project%201%20-%20Explore%20Weather%20Trends.ipynb)
+## 🌤 [Explore Weather Trends](https://github.com/katiehuangx/Udacity-Data-Analyst-Nanodegree/blob/main/Part%201:%20Welcome/Project%20%231:%20Explore%20Weather%20Trends/Project%201%20-%20Explore%20Weather%20Trends.ipynb)
 
 In this project, I analyze local and global temperature data and compare the temperature trends where I live to overall global temperature trends.
 
@@ -76,16 +79,18 @@ In this project, I analyze local and global temperature data and compare the tem
 - Data Cleaning - Handling and dropping missing values and duplication
 - Visualization using line chart and Correlation Coefficient using heatmap
 
-### 🌱 [DataCamp Projects](https://github.com/katiehuangx/DataCamp-Projects)
+## 🛍 [Super Store Analysis](https://github.com/katiehuangx/Super-Store-Analysis/blob/main/Super_Store_Analysis.ipynb)
+
+I analysed sales data of a fictitious retail store and provided my insights and recommendations to the business owners.
+
+## 🏃🏻‍♀️ [Bellabeat Fitness Tracking Analysis](https://github.com/katiehuangx/Google-Data-Analytics-Capstone/blob/main/bellabeat-data-analysis.ipynb)
+
+This is a special project for me as it is my ✨first✨ foray into data analytics. 
+
+In this analysis, I analysed FitBit's Fitness tracking app data to gain insights into how consumers are using the FitBit app and discover trends and insights for Bellabeat marketing strategy.
+
+## 🌱 [DataCamp Projects](https://github.com/katiehuangx/DataCamp-Projects)
 
 A series of guided and unguided projects developed by DataCamp.
 
-### 🛍 [Super Store Exploratory Data Analysis](https://github.com/katiehuangx/The-Sparks-Foundation-Internship)
-
-I analyse the sales data of a fictitious retail store in US and provide my insights and recommendations to the business owners.
-
-### 🏃🏻‍♀️ [Bellabeat Fitness Tracker App Exploratory Data Analysis](https://github.com/katiehuangx/Google-Data-Analytics-Capstone)
-
 ***
-
-
