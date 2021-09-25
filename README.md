@@ -50,8 +50,6 @@ I analysed global and local Covid-19 cases & how it has impacted the stock marke
 An analysis of TMDb movie data to understand the relationship between budget and revenue, find out the most popular genres, and which actor acted in highest revenue movies.
 
 **Key Learning:**
-- Libraries: Pandas, Numpy, Matplotlib
-- Explored and cleaned data by handling missing values and duplications.
 - Split multiple values and explode them into individual rows.
 - Visualized data using histograms, scatter plots and bar plots.
 - Draw conclusions by asking questions such as
