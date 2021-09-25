@@ -45,14 +45,25 @@ I analysed global and local Covid-19 cases & how it has impacted the stock marke
 
 # Python Projects
 
-## ⛽️ [Analysing Fuel Economy](https://github.com/katiehuangx/Udacity-Data-Analyst-Nanodegree/blob/main/Part%202:%20Intro%20to%20Data%20Analysis/Case%20Study%20%232:%20Fuel%20Economy/Fuel_Economy.ipynb)
+## ⛽️ [TMDb Movie Analysis](https://github.com/katiehuangx/Udacity-Data-Analyst-Nanodegree/blob/main/Part%202:%20Intro%20to%20Data%20Analysis/Project:%20TMDb%20Movie%20Analysis/TMDB%20Movie%20Analysis.ipynb)
 
-An analysis of fuel economy data based on a series of tests conducted by the United States Environmental Protection Agency.
+An analysis of TMDb movie data to understand the relationship between budget and revenue, find out the most popular genres, and which actor acted in highest revenue movies.
 
 **Key Learning:**
 - Libraries: Pandas, Numpy, Matplotlib
-- Explored data using `.head()`, `.describe()` and more!
-- Cleaned data by handling missing values and duplications
+- Explored and cleaned data by handling missing values and duplications.
+- Split multiple values and explode them into individual rows.
+- Visualized data using histograms, scatter plots and bar plots.
+- Draw conclusions by asking questions such as
+  - **Which genres are associated with high popularity?**
+  - **Which actor is associated with higher popularity and revenue profit??**
+
+## ⛽️ [Analysing Fuel Economy](https://github.com/katiehuangx/Udacity-Data-Analyst-Nanodegree/blob/main/Part%202:%20Intro%20to%20Data%20Analysis/Case%20Study%20%232:%20Fuel%20Economy/Fuel_Economy.ipynb)
+
+Analysis on vehicles’ fuel economy in 2008 and 2018 to find usage of alternative sources of fuel, changes in SmartWay Certification characteristics over the decade, and vehicle features associated with better fuel economy.
+
+**Key Learning:**
+- Explored data using `.head()`, `.describe()` and cleaned data by handling missing values and duplications
 - Corrected inconsistent data types by converting from `string` to `float`, `float` to `int` and many more
 - Visualized data using histograms, scatter plots and box plots
 - Draw conclusions by asking questions such as
@@ -61,10 +72,9 @@ An analysis of fuel economy data based on a series of tests conducted by the Uni
 
 ## 🍷 [Wine Quality](https://github.com/katiehuangx/Udacity-Data-Analyst-Nanodegree/blob/main/Part%202:%20Intro%20to%20Data%20Analysis/Case%20Study%20%231:%20Wine%20Quality/Wine_Quality.ipynb)
 
-I analysed red and white wine samples with its associated wine qualities from north of Portugal.
+A study on red and white wine samples and understanding whether certain types of wine and their qualities (alcohol level, sugar content and acidity level) are associated with higher wine quality.
 
 **Key Learning:**
-- Libraries: Pandas, Numpy, Matplotlib
 - Assessed and transformed data using `.info()`, `.describe()`, `.shape`, `.rename()` and more!
 - Visualized data using histograms and scatter plots
 - Draw conclusions by asking questions such as
@@ -84,13 +94,13 @@ In this project, I analyze local and global temperature data and compare the tem
 
 ## 🛍 [Super Store Analysis](https://github.com/katiehuangx/Super-Store-Analysis/blob/main/Super_Store_Analysis.ipynb)
 
-I analysed sales data of a fictitious retail store and provided my insights and recommendations to the business owners.
+Analysis of sales data to find out highest revenue and profit product categories and top customer segments.
 
 ## 🏃🏻‍♀️ [Bellabeat Fitness Tracking Analysis](https://github.com/katiehuangx/Google-Data-Analytics-Capstone/blob/main/bellabeat-data-analysis.ipynb)
 
 This is a special project for me as it is my ✨first✨ foray into data analytics. 
 
-In this analysis, I analysed FitBit's Fitness tracking app data to gain insights into how consumers are using the FitBit app and discover trends and insights for Bellabeat marketing strategy.
+Discovered insights into whether users are using the FitBit app for tracking health habits, their frequency of usage across the week and whether there is correlation between the hours logged, number of steps taken and calories burnt
 
 ## 🌱 [DataCamp Projects](https://github.com/katiehuangx/DataCamp-Projects)
 
