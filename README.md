@@ -18,13 +18,15 @@ _Katie's note: Click on the project's title (**bold** and coloured in Blue) to v
 
 A series of SQL case studies where I perform Data Cleaning and Data Transformation and solve Business Questions using SQL. 
 
-- [#1 Danny's Diner](https://github.com/katiehuangx/8-Week-SQL-Challenge/blob/main/Case%20Study%20%231%20-%20Danny's%20Diner/Danny's%20Diner%20Solution.md)
-- [#2 Pizza Runner](https://github.com/katiehuangx/8-Week-SQL-Challenge/blob/main/Case%20Study%20%232%20-%20Pizza%20Runner/Data%20Cleaning%20and%20Transformation.md)
-- [#3 Foodie-Fi](https://github.com/katiehuangx/8-Week-SQL-Challenge/blob/main/Case%20Study%20%233%20-%20Foodie-Fi/A.%20Customer%20Journey.md)
-- [#4 Data Bank](https://github.com/katiehuangx/8-Week-SQL-Challenge/blob/main/Case%20Study%20%234%20-%20Data%20Bank/A.%20Customer%20Nodes%20Exploration.md)
-- [#5 Data Mart](https://github.com/katiehuangx/8-Week-SQL-Challenge/blob/main/Case%20Study%20%235%20-%20Data%20Mart/A.%20Data%20Cleansing%20Steps.md)
+- [#1 Danny's Diner](https://github.com/katiehuangx/8-Week-SQL-Challenge/tree/main/Case%20Study%20%231%20-%20Danny's%20Diner)
+- [#2 Pizza Runner](https://github.com/katiehuangx/8-Week-SQL-Challenge/tree/main/Case%20Study%20%232%20-%20Pizza%20Runner)
+- [#3 Foodie-Fi](https://github.com/katiehuangx/8-Week-SQL-Challenge/blob/main/Case%20Study%20%233%20-%20Foodie-Fi)
+- [#4 Data Bank](https://github.com/katiehuangx/8-Week-SQL-Challenge/blob/main/Case%20Study%20%234%20-%20Data%20Bank)
+- [#5 Data Mart](https://github.com/katiehuangx/8-Week-SQL-Challenge/blob/main/Case%20Study%20%235%20-%20Data%20Mart)
+- [#6 Clique Bait](https://github.com/katiehuangx/8-Week-SQL-Challenge/tree/main/Case%20Study%20%236%20-%20Clique%20Bait)
 
-**Skills Learnt:** Aggregations, Joins, CTEs, Window functions (aggregates, ranking, running total, partitioned averages), CASE WHEN statements, subqueries, nested subqueries, DATETIME functions, data type conversion, text and string manipulation
+**Skills Learnt:** 
+Aggregations, Joins, CTEs, Window functions (aggregates, ranking, running total, partitioned averages), CASE WHEN statements, subqueries, nested subqueries, DATETIME functions, data type conversion, text and string manipulation
 
 ## 👩🏻‍⚕️ [Health Analytics Mini Case Study](https://github.com/katiehuangx/Serious-SQL-Apprenticeship/blob/main/Health%20Analytics%20Mini%20Case%20Study.md)
 
