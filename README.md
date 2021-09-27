@@ -47,50 +47,21 @@ I analysed global and local Covid-19 cases & how it has impacted the stock marke
 
 # Python Projects
 
-## ⛽️ [TMDb Movie Analysis](https://github.com/katiehuangx/Udacity-Data-Analyst-Nanodegree/blob/main/Part%202:%20Intro%20to%20Data%20Analysis/Project:%20TMDb%20Movie%20Analysis/TMDB%20Movie%20Analysis.ipynb)
+## ⛽️ [TMDb Movie Analysis](https://github.com/katiehuangx/Udacity-Data-Analyst-Nanodegree/blob/main/Project%202%20-%20TMDB%20Movie%20Analysis.ipynb)
 
-An analysis of TMDb movie data to understand the relationship between budget and revenue, find out the most popular genres, and which actor acted in highest revenue movies.
+Analysing more than 10,000 TMDb movies and getting the answers to - Which actor(s) is associated with higher revenue and profit, Does a higher budget constitute to a higher profit, and Which director produced the highest grossing movie?
 
-**Key Learning:**
-- Split multiple values and explode them into individual rows.
-- Visualized data using histograms, scatter plots and bar plots.
-- Draw conclusions by asking questions such as
-  - **Which genres are associated with high popularity?**
-  - **Which actor is associated with higher popularity and revenue profit??**
+## ⛽️ [Fuel Economy](https://github.com/katiehuangx/Udacity-Data-Analyst-Nanodegree/blob/main/Case%20Study%202%20-%20Fuel%20Economy.ipynb)
 
-## ⛽️ [Analysing Fuel Economy](https://github.com/katiehuangx/Udacity-Data-Analyst-Nanodegree/blob/main/Part%202:%20Intro%20to%20Data%20Analysis/Case%20Study%20%232:%20Fuel%20Economy/Fuel_Economy.ipynb)
+Analysis on vehicles’ fuel economy in 2008 and 2018 to understand usage of alternative sources of fuel, changes in greenhouse gas and smog ratings over the decade, and vehicle features associated with better fuel economy. _(It's more interesting than the summary sounds, I promise!)_
 
-Analysis on vehicles’ fuel economy in 2008 and 2018 to find usage of alternative sources of fuel, changes in SmartWay Certification characteristics over the decade, and vehicle features associated with better fuel economy.
-
-**Key Learning:**
-- Explored data using `.head()`, `.describe()` and cleaned data by handling missing values and duplications
-- Corrected inconsistent data types by converting from `string` to `float`, `float` to `int` and many more
-- Visualized data using histograms, scatter plots and box plots
-- Draw conclusions by asking questions such as
-  - **What are the characteristics of SmartWay vehicles? Have they improved over time?**
-  - **For all the models that were produced in 2008 that are still produced in 2018, how much has the mpg (miles/gallon) improved and which vehicle improved the most?**
-
-## 🍷 [Wine Quality](https://github.com/katiehuangx/Udacity-Data-Analyst-Nanodegree/blob/main/Part%202:%20Intro%20to%20Data%20Analysis/Case%20Study%20%231:%20Wine%20Quality/Wine_Quality.ipynb)
+## 🍷 [Wine Quality](https://github.com/katiehuangx/Udacity-Data-Analyst-Nanodegree/blob/main/Case%20Study%201%20-%20Analysing%20Wine%20Quality.ipynb)
 
 A study on red and white wine samples and understanding whether certain types of wine and their qualities (alcohol level, sugar content and acidity level) are associated with higher wine quality.
 
-**Key Learning:**
-- Assessed and transformed data using `.info()`, `.describe()`, `.shape`, `.rename()` and more!
-- Visualized data using histograms and scatter plots
-- Draw conclusions by asking questions such as
-  - **Do wines with higher alcoholic content receive better ratings?**
-  - **Do sweeter wines (more residual sugar) receive better ratings?**
+## 🌤 [Explore Weather Trends](https://github.com/katiehuangx/Udacity-Data-Analyst-Nanodegree/blob/main/Project%201%20-%20Explore%20Weather%20Trends.ipynb)
 
-## 🌤 [Explore Weather Trends](https://github.com/katiehuangx/Udacity-Data-Analyst-Nanodegree/blob/main/Part%201:%20Welcome/Project%20%231:%20Explore%20Weather%20Trends/Project%201%20-%20Explore%20Weather%20Trends.ipynb)
-
-In this project, I analyze local and global temperature data and compare the temperature trends where I live to overall global temperature trends.
-
-**Key Learning:**
-- Time Series Analysis using 10-Years Moving Average
-- Extract data using SQL joins
-- Libraries: Pandas, Numpy, Matplotlib, Seaborn
-- Data Cleaning - Handling and dropping missing values and duplication
-- Visualization using line chart and Correlation Coefficient using heatmap
+In this time-series analysis, I use moving average method to analyze local and global temperature data and compare the temperature trends where I live to overall global temperature trends.
 
 ## 🛍 [Super Store Analysis](https://github.com/katiehuangx/Super-Store-Analysis/blob/main/Super_Store_Analysis.ipynb)
 
