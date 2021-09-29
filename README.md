@@ -8,10 +8,33 @@ Feel free to chat with me on [LinkedIn](https://www.linkedin.com/in/katiehuangx/
 
 ## 📚 Table of Contents
 
+- [Katie's Guides](#katies-guides)
 - [SQL Projects](#sql-projects)
 - [Python Projects](#python-projects)
 
 _Katie's note: Click on the project's title (**bold** and coloured in Blue) to view my projects! Thank you! ☺️_
+
+***
+
+# Katie's Guides
+
+## 📚 SQL Resources
+
+I compiled a comprehensive list of free SQL resources ranging from YouTube videos, courses, interactive websites, practice sites, and projects. 
+
+Click **[here](https://www.linkedin.com/posts/katiehuangx_sql-for-data-analysis-udacity-free-courses-activity-6838753919229931520-u44C)** to view the post on LinkedIn!
+
+<img width="535" alt="Screenshot 2021-09-29 at 9 28 28 PM" src="https://user-images.githubusercontent.com/81607668/135277994-a45a6cf2-becc-464b-a0c3-5315bef99f33.png">
+
+## ✏️ [How to Create a GitHub Portfolio](https://github.com/katiehuangx/How-to-Create-a-GitHub-Portfolio/blob/main/README.md)
+
+After receiving several messages asking for tips on how to create a GitHub portfolio, I decided to create a step-by-step tutorial with images to teach beginners to set up their portfolio. 
+
+What you will learn in my guide:
+- How to Create Your Profile?
+- How to Customize Markdown files?
+- How to Create New Repository?
+
 ***
 
 # SQL Projects
