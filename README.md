@@ -24,7 +24,7 @@ I compiled a comprehensive list of free SQL resources ranging from YouTube video
 
 Click **[here](https://www.linkedin.com/posts/katiehuangx_sql-for-data-analysis-udacity-free-courses-activity-6838753919229931520-u44C)** to view the post on LinkedIn!
 
-<img width="535" alt="Screenshot 2021-09-29 at 9 28 28 PM" src="https://user-images.githubusercontent.com/81607668/135277994-a45a6cf2-becc-464b-a0c3-5315bef99f33.png">
+<knb><img width="535" alt="Screenshot 2021-09-29 at 9 28 28 PM" src="https://user-images.githubusercontent.com/81607668/135277994-a45a6cf2-becc-464b-a0c3-5315bef99f33.png"></knb>
 
 ## ✏️ [How to Create a GitHub Portfolio](https://github.com/katiehuangx/How-to-Create-a-GitHub-Portfolio/blob/main/README.md)
 
