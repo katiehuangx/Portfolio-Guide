@@ -39,7 +39,7 @@ What you will learn in my guide:
 
 # SQL Projects
 
-## 📚 [Udemy: MySQL Data Analysis & Business Intelligence Course]()
+## 📚 [Udemy Advanced SQL: Advanced MySQL Data Analysis & Business Intelligence Course](https://github.com/katiehuangx/Udemy-MySQL-Data-Analysis-Business-Intelligence)
 
 ## 🔹 [ScrataScratch FAANG Interview Questions](https://github.com/katiehuangx/ScrataScratch)
 
