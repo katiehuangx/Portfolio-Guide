@@ -39,9 +39,15 @@ What you will learn in my guide:
 
 # SQL Projects
 
+## 📚 [Udemy: MySQL Data Analysis & Business Intelligence Course]()
+
+## 🔹 [ScrataScratch FAANG Interview Questions](https://github.com/katiehuangx/ScrataScratch)
+
+Solutions to [ScrataScratch](https://platform.stratascratch.com/coding?questionType=2&company=2&topic=&curated_filter=&is_correct_solution=&is_bookmarked=&is_freemium=true&in_depth_solution=&difficulty=&python=&filters=&page=1&page_size=50)'s FAANG SQL interview questions.
+
 ## 🥑 [8 Week SQL Challenge](https://github.com/katiehuangx/8-Week-SQL-Challenge)
 
-A series of SQL case studies where I perform Data Cleaning and Data Transformation and solve Business Questions using SQL. 
+A series of SQL case studies where I perform Data Cleaning and Data Transformation and solve business analytics questions using SQL. 
 
 - [#1 Danny's Diner](https://github.com/katiehuangx/8-Week-SQL-Challenge/tree/main/Case%20Study%20%231%20-%20Danny's%20Diner)
 - [#2 Pizza Runner](https://github.com/katiehuangx/8-Week-SQL-Challenge/tree/main/Case%20Study%20%232%20-%20Pizza%20Runner)
@@ -49,6 +55,7 @@ A series of SQL case studies where I perform Data Cleaning and Data Transformati
 - [#4 Data Bank](https://github.com/katiehuangx/8-Week-SQL-Challenge/blob/main/Case%20Study%20%234%20-%20Data%20Bank)
 - [#5 Data Mart](https://github.com/katiehuangx/8-Week-SQL-Challenge/blob/main/Case%20Study%20%235%20-%20Data%20Mart)
 - [#6 Clique Bait](https://github.com/katiehuangx/8-Week-SQL-Challenge/tree/main/Case%20Study%20%236%20-%20Clique%20Bait)
+- [#8 Fresh Segments](https://github.com/katiehuangx/8-Week-SQL-Challenge/tree/main/Case%20Study%20%238:%20Fresh%20Segments)
 
 **Skills Learnt:** 
 Aggregations, Joins, CTEs, Window functions (aggregates, ranking, running total, partitioned averages), CASE WHEN statements, subqueries, nested subqueries, DATETIME functions, data type conversion, text and string manipulation
