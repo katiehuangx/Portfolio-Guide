@@ -9,7 +9,7 @@ Feel free to chat with me on [LinkedIn](https://www.linkedin.com/in/katiehuangx/
 ## 📚 Table of Contents
 
 - [Katie's Guides](#katies-guides)
-- [SQL Projects](#sql-projects)
+- [SQL Projects & Courses](#sql-projects-and-courses)
 - [Python Projects](#python-projects)
 
 _Katie's note: Click on the project's title (**bold** and coloured in Blue) to view my projects! Thank you! ☺️_
@@ -37,7 +37,7 @@ What you will learn in my guide:
 
 ***
 
-# SQL Projects
+# SQL Projects and Courses
 
 ## 📚 [Udemy Advanced SQL: Advanced MySQL Data Analysis & Business Intelligence Course](https://github.com/katiehuangx/Udemy-MySQL-Data-Analysis-Business-Intelligence)
 
