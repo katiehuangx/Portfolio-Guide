@@ -9,8 +9,9 @@ Feel free to chat with me on [LinkedIn](https://www.linkedin.com/in/katiehuangx/
 ## 📚 Table of Contents
 
 - [Katie's Guides](#katies-guides)
-- [SQL Projects & Courses](#sql-projects-and-courses)
-- [Python Projects](#python-projects)
+- [SQL](#sql)
+- [Tableau](#tableau)
+- [Python](#python)
 
 _Katie's note: Click on the project's title (**bold** and coloured in Blue) to view my projects! Thank you! ☺️_
 
@@ -37,9 +38,9 @@ What you will learn in my guide:
 
 ***
 
-# SQL Projects and Courses
+# SQL
 
-## 📚 [Udemy Advanced SQL: Advanced MySQL Data Analysis & Business Intelligence Course](https://github.com/katiehuangx/Udemy-MySQL-Data-Analysis-Business-Intelligence)
+## 📚 [Advanced SQL: Advanced MySQL Data Analysis & Business Intelligence Course](https://github.com/katiehuangx/Udemy-MySQL-Data-Analysis-Business-Intelligence)
 
 ## 🔹 [ScrataScratch FAANG Interview Questions](https://github.com/katiehuangx/ScrataScratch)
 
@@ -77,7 +78,14 @@ I analysed global and local Covid-19 cases & how it has impacted the stock marke
 
 ***
 
-# Python Projects
+# Tableau
+
+## 📚 [Udemy: Advanced Tableau for Business Intelligence & Data Analysis]()
+
+***
+
+
+# Python
 
 ## ⛽️ [TMDb Movie Analysis](https://github.com/katiehuangx/Udacity-Data-Analyst-Nanodegree/blob/main/Project%202%20-%20TMDB%20Movie%20Analysis.ipynb)
 
