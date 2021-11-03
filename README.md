@@ -40,7 +40,9 @@ What you will learn in my guide:
 
 # SQL
 
-## 📚 [Advanced SQL: Advanced MySQL Data Analysis & Business Intelligence Course](https://github.com/katiehuangx/Udemy-MySQL-Data-Analysis-Business-Intelligence)
+## 📚 [Udemy Advanced MySQL](https://github.com/katiehuangx/Udemy-Advanced-MySQL)
+
+_[In progress]_
 
 ## 🔹 [ScrataScratch FAANG Interview Questions](https://github.com/katiehuangx/ScrataScratch)
 
@@ -68,6 +70,7 @@ Aggregations, Joins, CTEs, Window functions (aggregates, ranking, running total,
 - Aggregations, Joins, CTEs, Window functions (summary statistics: mode, median)
 
 ## 🎬 [Marketing Analytics Case Study](https://github.com/katiehuangx/Serious-SQL-Apprenticeship/blob/main/Marketing%20Analytics%20Case%20Study.md) 
+
 _[Ongoing]_
 
 ## 🦠 [Covid-19 and the Impact on Malaysia Stock Market](https://github.com/katiehuangx/Covid-19-and-Impact-on-Malaysia-stock-market)
@@ -80,10 +83,11 @@ I analysed global and local Covid-19 cases & how it has impacted the stock marke
 
 # Tableau
 
-## 📚 [Udemy: Advanced Tableau for Business Intelligence & Data Analysis]()
+## 📚 [Udemy Advanced Tableau](https://github.com/katiehuangx/Udemy-Advanced-Tableau)
+
+_[In progress]_
 
 ***
-
 
 # Python
 
