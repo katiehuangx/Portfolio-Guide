@@ -44,10 +44,6 @@ What you will learn in my guide:
 
 _[In progress]_
 
-## 🔹 [ScrataScratch FAANG Interview Questions](https://github.com/katiehuangx/ScrataScratch)
-
-Solutions to [ScrataScratch](https://platform.stratascratch.com/coding?questionType=2&company=2&topic=&curated_filter=&is_correct_solution=&is_bookmarked=&is_freemium=true&in_depth_solution=&difficulty=&python=&filters=&page=1&page_size=50)'s FAANG SQL interview questions.
-
 ## 🥑 [8 Week SQL Challenge](https://github.com/katiehuangx/8-Week-SQL-Challenge)
 
 A series of SQL case studies where I perform Data Cleaning and Data Transformation and solve business analytics questions using SQL. 
