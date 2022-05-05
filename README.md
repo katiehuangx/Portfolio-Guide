@@ -79,6 +79,8 @@ I analysed global and local Covid-19 cases & how it has impacted the stock marke
 
 # Tableau
 
+## 🦄 [Maven Unicorn Challenge](https://github.com/katiehuangx/Maven-Unicorn-Challenge)
+
 ## 📚 [Udemy Advanced Tableau](https://github.com/katiehuangx/Udemy-Advanced-Tableau)
 
 _[In progress]_
