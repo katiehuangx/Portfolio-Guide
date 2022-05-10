@@ -81,6 +81,15 @@ I analysed global and local Covid-19 cases & how it has impacted the stock marke
 
 ## 🦄 [Maven Unicorn Challenge](https://github.com/katiehuangx/Maven-Unicorn-Challenge)
 
+I used Python for data cleaning and wrangling. I removed rows with missing values, cleaned numerical columns and cast as float, and exploded "investors" column for further analysis. 
+
+Then, I visualised the following metrics using Tableau.
+- COUNTRY with largest valuations
+- Most SUCCESSFUL unicorns
+- INDUSTRIES with highest average valuations
+- INVESTORS with largest combined valuations
+- YEARS taken to be unicorn
+
 ## 📚 [Udemy Advanced Tableau](https://github.com/katiehuangx/Udemy-Advanced-Tableau)
 
 _[In progress]_
