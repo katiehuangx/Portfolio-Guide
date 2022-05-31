@@ -19,6 +19,8 @@ _Click on the project's title (**bold** and coloured in Blue) to view my project
 
 # Python
 
+Skills: Data cleaning, wrangling, visualisation, analysis
+
 | Project Name | Area | Description | Libraries |    
 |---|---|---|---|
 | 📺 [TMDb Movie Analysis](https://github.com/katiehuangx/Udacity-Data-Analyst-Nanodegree/blob/main/Project%202%20-%20TMDB%20Movie%20Analysis.ipynb) |   Data Wrangling & EDA | Analysing more than 10,000 TMDb movies and getting the answers to - Which actor(s) is associated with higher revenue and profit, Does a higher budget constitute to a higher profit, and Which director produced the highest grossing movie? | _pandas, matplotlib_ |   
