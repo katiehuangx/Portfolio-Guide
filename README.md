@@ -20,6 +20,7 @@ _Click on the project's title (**bold** and coloured in Blue) to view my project
 # Python
 
 Skills: Data cleaning, wrangling, visualisation, analysis
+Libraries: pandas, numpy, matplotlib, seaborn
 
 | Project Name | Area | Description | Libraries |    
 |---|---|---|---|
