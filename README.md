@@ -40,6 +40,7 @@ Functions: Aggregations, Joins, CTEs, Window functions (aggregates, ranking, run
 # Python
 
 Skills: Data cleaning, wrangling, visualisation, analysis
+
 Libraries: pandas, numpy, matplotlib, seaborn
 
 | Project Name | Area | Description | Libraries |    
