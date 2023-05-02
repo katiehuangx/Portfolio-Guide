@@ -1,18 +1,15 @@
-# 🗺 Portfolio Guide
+# 🗺 Katie's Portfolio
 
-Hi there! 🙋🏻‍♀️
+Welcome to my portfolio guide where I provide a walkthrough to all my data projects.
 
-Welcome to my Portfolio Guide where I provide a walkthrough to all of my data analytics projects and courses.
-
-Feel free to chat with me on [LinkedIn](https://www.linkedin.com/in/katiehuangx/) about my projects!
+Chat with me on [LinkedIn](https://www.linkedin.com/in/katiehuangx/) about my projects!
 
 ## 📚 Table of Contents
 - [SQL](#sql)
 - [Python](#python)
 - [Tableau](#tableau)
-- [Katie's Guides](#katies-guides)
-
-_Click on the project's title (**bold** and coloured in Blue) to view my projects! Thank you! ☺️_
+- [Data Engineering](#data-engineering)
+- [Guides](#guides)
 
 # SQL
 
@@ -39,12 +36,9 @@ Functions: Aggregations, Joins, CTEs, Window functions (aggregates, ranking, run
 
 # Python
 
-Skills: Data cleaning, wrangling, visualisation, analysis
-
-Libraries: pandas, numpy, matplotlib, seaborn
-
 | Project Name | Area | Description | Libraries |    
 |---|---|---|---|
+| 5️⃣0️⃣ [CS50P](https://github.com/katiehuangx/CS50P/blob/main/README.md) | Programming | This repo contains the solution to problem sets in the Harvardx CS50P Introduction to Programming with Python. | - | 
 | 📺 [TMDb Movie Analysis](https://github.com/katiehuangx/Udacity-Data-Analyst-Nanodegree/blob/main/Project%202%20-%20TMDB%20Movie%20Analysis.ipynb) |   Data Wrangling & EDA | Analysing more than 10,000 TMDb movies and getting the answers to - Which actor(s) is associated with higher revenue and profit, Does a higher budget constitute to a higher profit, and Which director produced the highest grossing movie? | _pandas, matplotlib_ |   
 | ⛽️ [Fuel Economy](https://github.com/katiehuangx/Udacity-Data-Analyst-Nanodegree/blob/main/Case%20Study%202%20-%20Fuel%20Economy.ipynb) | Data Wrangling & EDA | Analysis on vehicles’ fuel economy in 2008 and 2018 to understand usage of alternative sources of fuel, changes in greenhouse gas and smog ratings over the decade, and vehicle features associated with better fuel economy. _(It's more interesting than the summary sounds, I promise!)_ |  _pandas, matplotlib_ |   
 | 🍷 [Wine Quality](https://github.com/katiehuangx/Udacity-Data-Analyst-Nanodegree/blob/main/Case%20Study%201%20-%20Analysing%20Wine%20Quality.ipynb) | Data Wrangling & EDA | A study on red and white wine samples and understanding whether certain types of wine and their qualities (alcohol level, sugar content and acidity level) are associated with higher wine quality. | _pandas, matplotlib_ |   
