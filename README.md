@@ -18,6 +18,7 @@ Chat with me on [LinkedIn](https://www.linkedin.com/in/katiehuangx/) about my pr
 | 🏡 [Airbnb project](https://github.com/katiehuangx/data-engineering/tree/main/Airbnb%20Project) | Snowflake, dbt | Designed and implemented data warehouse and conducted transformation. |
 | 🐶 [Dog Adoption project](https://github.com/katiehuangx/data-engineering/tree/main/Dog%20Adoption) | Python, PostgreSQL | Created and built a data model and deploy into database. |
 
+***
 
 # SQL
 
