@@ -15,8 +15,9 @@ Chat with me on [LinkedIn](https://www.linkedin.com/in/katiehuangx/) about my pr
 
 | Project Name | Tools | Project Description | 
 |---|---|---|
-| 🏡 [Airbnb project](https://github.com/katiehuangx/data-engineering/tree/main/Airbnb%20Project) | Snowflake, dbt | Designed and implemented data warehouse and conducted transformation. |
-| 🐶 [Dog Adoption project](https://github.com/katiehuangx/data-engineering/tree/main/Dog%20Adoption) | Python, PostgreSQL | Created and built a data model and deploy into database. |
+| [Uber Taxi](https://github.com/katiehuangx/data-engineering/tree/main/Uber%20Project) | Python, Mage, BigQuery, Looker Studio | Designed and implemented a data pipeline using ETL for NYC Trip Record data by extracting data from the website, transforming and modelling it using Python and Jupyter Notebook, orchestrating the pipeline on Mage, and creating a dashboard on Looker Studio. |
+| 🏡 [Airbnb](https://github.com/katiehuangx/data-engineering/tree/main/Airbnb%20Project) | Snowflake, dbt | Designed and implemented data warehouse and conducted transformation. |
+| 🐶 [Dog Adoption](https://github.com/katiehuangx/data-engineering/tree/main/Dog%20Adoption) | Python, PostgreSQL | Created and built a data model and deploy into database. |
 
 ***
 
