@@ -62,7 +62,7 @@ Chat with me on [LinkedIn](https://www.linkedin.com/in/katiehuangx/) about my pr
 
 # Guides
 
-## 📚 SQL Resources
+## 📚 [SQL Resources](https://github.com/katiehuangx/Transition-into-Data-Analytics)
 
 I compiled a comprehensive list of free SQL resources ranging from YouTube videos, courses, interactive websites, practice sites, and projects. 
 
