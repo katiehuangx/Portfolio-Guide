@@ -1,22 +1,20 @@
 # 🗺 Katie's Portfolio
 
-Welcome to my portfolio guide where I provide a walkthrough to my data projects.
-
-Chat with me on [LinkedIn](https://www.linkedin.com/in/katiehuangx/) about my projects!
+Welcome to my data portfolio! Here, I document a summary of my various projects in the data field. 
 
 ## 📚 Table of Contents
 - [Data Engineering](#data-engineering)
 - [SQL](#sql)
 - [Python](#python)
 - [Tableau](#tableau)
-- [Guides](#guides)
+- [Katie's Guides](#katies-guides)
 
 # Data Engineering
 
 | Project Name | Completion Date | Tools | Project Description | 
 |---|---|---|---|
-| 🚗 [Uber Taxi](https://github.com/katiehuangx/data-engineering/tree/main/Uber%20Project) | May 2023 | Python, GCP Storage, Compute Engine, Mage, BigQuery, Looker Studio | Designed and implemented a data pipeline using ETL for NYC Trip Record data by extracting data from the website, modelling it using Python on Jupyter Notebook, orchestrating the pipeline on Mage, and creating a dashboard on Looker Studio. |
-| 🐶 [Dog Adoption](https://github.com/katiehuangx/data-engineering/tree/main/Dog%20Adoption) | Mar 2023 |Python, PostgreSQL | Created and built a data model and deploy into database. |
+| 🚗 [Uber Taxi](https://github.com/katiehuangx/data-engineering/tree/main/Uber%20Project) | May 2023 | Python, GCP Storage, Compute Engine, Mage, BigQuery, Looker Studio | Developed a data pipeline utilizing ETL to process NYC Trip Record data by extracting raw data from a website, modelling it using Python on Jupyter Notebook, orchestrating the pipeline on Mage, and creating a dashboard using Looker Studio. |
+| 🐶 [Dog Adoption](https://github.com/katiehuangx/data-engineering/tree/main/Dog%20Adoption) | Mar 2023 |Python, PostgreSQL | Created and built a data model from scratch and deploy into database. |
 
 ***
 
@@ -60,23 +58,26 @@ Chat with me on [LinkedIn](https://www.linkedin.com/in/katiehuangx/) about my pr
 
 ***
 
-# Guides
+# Katie's Guides
 
 ## 📚 [SQL Resources](https://github.com/katiehuangx/Transition-into-Data-Analytics)
 
-I compiled a comprehensive list of free SQL resources ranging from YouTube videos, courses, interactive websites, practice sites, and projects. 
+Looking to learn SQL for data analysis but don't know where to start? 
 
-Click **[here](https://www.linkedin.com/posts/katiehuangx_sql-for-data-analysis-udacity-free-courses-activity-6838753919229931520-u44C)** to view the post on LinkedIn!
+Check out **[my post](https://www.linkedin.com/posts/katiehuangx_sql-for-data-analysis-udacity-free-courses-activity-6838753919229931520-u44C)** on LinkedIn where I've compiled a comprehensive list of free SQL resources! From YouTube videos to interactive websites, courses, practice sites, and projects, this list has got you covered.
 
 <knb><img width="535" alt="Screenshot 2021-09-29 at 9 28 28 PM" src="https://user-images.githubusercontent.com/81607668/135277994-a45a6cf2-becc-464b-a0c3-5315bef99f33.png"></knb>
 
 ## ✏️ [How to Create a GitHub Portfolio](https://github.com/katiehuangx/How-to-Create-a-GitHub-Portfolio/blob/main/README.md)
 
-After receiving several messages asking for tips on how to create a GitHub portfolio, I decided to create a step-by-step tutorial with images to teach beginners to set up their portfolio. 
+Are you new to GitHub and wondering how to showcase your coding skills to potential employers or clients? Look no further! 
 
-What you will learn in my guide:
-- How to Create Your Profile?
-- How to Customize Markdown files?
-- How to Create New Repository?
+My step-by-step tutorial with images will guide you through creating a professional portfolio on GitHub.
+
+In my guide, you will learn:
+- How to create your profile on GitHub and add relevant information
+- How to customize Markdown files to create a visually appealing portfolio
+- How to create a new repository for each project and add project details and code
+- Follow these steps and you'll have an impressive portfolio to showcase your coding projects in no time!
 
 ***
