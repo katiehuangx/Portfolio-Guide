@@ -15,7 +15,7 @@ Chat with me on [LinkedIn](https://www.linkedin.com/in/katiehuangx/) about my pr
 
 | Project Name | Completion Date | Tools | Project Description | 
 |---|---|---|---|
-| [Uber Taxi](https://github.com/katiehuangx/data-engineering/tree/main/Uber%20Project) | May 2023 | Python, GCP Storage, Compute Engine, Mage, BigQuery, Looker Studio | Designed and implemented a data pipeline using ETL for NYC Trip Record data by extracting data from the website, modelling it using Python on Jupyter Notebook, orchestrating the pipeline on Mage, and creating a dashboard on Looker Studio. |
+| 🚗 [Uber Taxi](https://github.com/katiehuangx/data-engineering/tree/main/Uber%20Project) | May 2023 | Python, GCP Storage, Compute Engine, Mage, BigQuery, Looker Studio | Designed and implemented a data pipeline using ETL for NYC Trip Record data by extracting data from the website, modelling it using Python on Jupyter Notebook, orchestrating the pipeline on Mage, and creating a dashboard on Looker Studio. |
 | 🐶 [Dog Adoption](https://github.com/katiehuangx/data-engineering/tree/main/Dog%20Adoption) | Mar 2023 |Python, PostgreSQL | Created and built a data model and deploy into database. |
 
 ***
