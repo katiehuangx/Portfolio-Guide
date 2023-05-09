@@ -11,7 +11,7 @@ Welcome to my data portfolio! Here, I document a summary of my various projects 
 
 # Data Engineering
 
-| Project Name | Completion Date | Tools | Project Description | 
+| Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
 | 🚗 [Uber Taxi](https://github.com/katiehuangx/data-engineering/tree/main/Uber%20Project) | May 2023 | Python, GCP Storage, Compute Engine, Mage, BigQuery, Looker Studio | Developed a data pipeline utilizing ETL to process NYC Trip Record data by extracting raw data from a website, modelling it using Python on Jupyter Notebook, orchestrating the pipeline on Mage, and creating a dashboard using Looker Studio. |
 | 🐶 [Dog Adoption](https://github.com/katiehuangx/data-engineering/tree/main/Dog%20Adoption) | Mar 2023 |Python, PostgreSQL | Created and built a data model from scratch and deploy into database. |
@@ -20,7 +20,7 @@ Welcome to my data portfolio! Here, I document a summary of my various projects 
 
 # SQL
 
-| Project Name | Area of Analysis | Project Description | 
+| Project Link | Area of Analysis | Project Description | 
 |---|---|---|
 | 🛍 [Maven Fuzzy Factory - Ongoing](https://github.com/katiehuangx/Udemy-Advanced-MySQL) | Marketing, product and campaign analysis | I analyse and optimise marketing channels, measure and test website conversion performance and use data to understand impact of new product and campaign launches for an online retailer. | 
 | 🍜[Danny's Diner](https://github.com/katiehuangx/8-Week-SQL-Challenge/tree/main/Case%20Study%20%231%20-%20Danny's%20Diner) | Customer analysis | I gather and analyze customer data to determine their visiting patterns, spending habits, and favorite menu items.  | 
@@ -37,7 +37,7 @@ Welcome to my data portfolio! Here, I document a summary of my various projects 
 
 # Python
 
-| Project Name | Area | Project Description | Libraries |    
+| Project Link | Area | Project Description | Libraries |    
 |---|---|---|---|
 | 👩🏻‍💻 [CS50P - Ongoing](https://github.com/katiehuangx/CS50P/blob/main/README.md) | Programming | This repo contains the solution to the problem sets in [Harvardx CS50P Introduction to Programming with Python](https://www.edx.org/course/cs50s-introduction-to-programming-with-python). | - | 
 | 📺 [TMDb Movie Analysis](https://github.com/katiehuangx/Udacity-Data-Analyst-Nanodegree/blob/main/Project%202%20-%20TMDB%20Movie%20Analysis.ipynb) |   Data Wrangling & EDA | I analysed more than 10,000 TMDb movies and getting the answers to - Which actor(s) is associated with higher revenue and profit, Does a higher budget constitute to a higher profit, and Which director produced the highest grossing movie? | pandas, matplotlib |   
@@ -51,7 +51,7 @@ Welcome to my data portfolio! Here, I document a summary of my various projects 
 
 # Tableau
 
-| Project Name | Project Description | Project Link |
+| Project Link | Project Description | Project Link |
 |---|---|---|
 | 🦄 [Maven Unicorn Challenge](https://github.com/katiehuangx/Maven-Unicorn-Challenge) | Cleansed and transformed data on privately-owned companies (start-ups) valued at over $1 billion using Python. Visualised key insights using Tableau, including the timeline of valuations, the top 10 countries and investors with the highest valuations, the most successful unicorns, and the average time it takes to reach a $1 billion valuation. | [Link](https://public.tableau.com/app/profile/katie.huang/viz/UnicornCompanies_16502745371460/Unicorns?publish=yes) |
 | 🦠 [Covid-19 and the Impact on Malaysia Stock Market](https://github.com/katiehuangx/Covid-19-and-Impact-on-Malaysia-stock-market) | A project close to 🏡 home. Inspired by Alex Freberg's [Data Exploration Project](https://www.youtube.com/watch?v=qfyynHBFOsM&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f&index=1), I analysed global and local Covid-19 cases & the impact on Malaysia stock market from Jan 2020 to Jul 2021 using SQL and Tableau. | [Link](https://public.tableau.com/app/profile/katie.huang/viz/Covid-19anditsimpactonKLSEIndexPriceinMalaysia/Dashboard1) |
